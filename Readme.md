@@ -72,4 +72,4 @@ This project demonstrates understanding of:
 
 ## Demo
 
-- (See demo)[https://chomikens.github.io/form-js/]
+- [See demo](https://chomikens.github.io/form-js/)
